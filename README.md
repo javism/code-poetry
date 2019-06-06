@@ -25,6 +25,9 @@ for i in range (2,50):
 
 ---
 
+[generador_discursos.py](generador_discursos.py)
+
+
 ```python
 #!/bin/python3
 import random
